@@ -1,5 +1,5 @@
 <?php
-if( ! function_exists('safe_getenv'))
+if( !function_exists('safe_getenv'))
 {
     function safe_getenv($name)
     {
